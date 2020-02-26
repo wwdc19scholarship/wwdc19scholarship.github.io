@@ -13,13 +13,13 @@
             "description": "...",
             "difficultyLevel": "advanced",
             "attributes": ["short", "biology"],
-            "contentIdentifier": "io.github.wwdc19scholarship.Bezier",
+            "contentIdentifier": "io.github.wwdc19scholarship.bezier",
             "contentVersion": "1.0",
-            "url": "https://wwdc19scholarship.github.io/Bezier/Bezier.playgroundbook.zip",
+            "url": "https://wwdc19scholarship.github.io/bezier/Bezier.playgroundbook.zip",
             "publishedDate": "2020-02-26T21:13:57+00:00",
             "lastUpdatedDate": "2020-02-26T21:13:57+00:00",
-            "thumbnailURL": "Bezier/thumbnail.png",
-            "bannerImageURL": "Bezier/bannerImage.png",
+            "thumbnailURL": "bezier/thumbnail.png",
+            "bannerImageURL": "bezier/bannerImage.png",
             "additionalInformation": [
                 {
                     "name": "Languages",
@@ -27,9 +27,9 @@
                 }
             ],
             "previewImageURLs": [
-                "Bezier/1.png",
-                "Bezier/2.png",
-                "Bezier/3.png"
+                "bezier/1.png",
+                "bezier/2.png",
+                "bezier/3.png"
             ]
         }
     ]

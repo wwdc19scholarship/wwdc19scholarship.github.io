@@ -7,7 +7,7 @@
 		<string>Chapter1.playgroundchapter</string>
 	</array>
 	<key>ContentIdentifier</key>
-	<string>io.github.wwdc19scholarship.Bezier</string>
+	<string>io.github.wwdc19scholarship.bezier</string>
 	<key>ContentVersion</key>
 	<string>1.0</string>
 	<key>DeploymentTarget</key>
