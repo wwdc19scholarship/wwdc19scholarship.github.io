@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+## WWDC19 Scholarship - Bezier
 
-You can use the [editor on GitHub](https://github.com/wwdc19scholarship/wwdc19scholarship.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### 欢迎下载我的Swift Playgrounds！你可以在iPad上通过[此链接](https://developer.apple.com/ul/sp0?url=https://wwdc19scholarhip.github.io/feed.json)订阅我的作品。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## Support or Contact
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+如果你有任何问题，欢迎与我取得联系。
 
-```markdown
-Syntax highlighted code block
+我的微博：@scauos
 
-# Header 1
-## Header 2
-### Header 3
+我的微信：@chen645670644
 
-- Bulleted
-- List
+我的QQ：暂无
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/wwdc19scholarship/wwdc19scholarship.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### 作者：洪浩东
