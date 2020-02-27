@@ -4,7 +4,7 @@
     "publisherName": "HaoDong Hong",
     "feedIdentifier": "com.wwdc19scholarship",
     "contactURL": "https://github.com/wwdc19scholarship/wwdc19scholarship.github.io",
-    "formatVersion": "1.0",
+    "formatVersion": "1.2",
     "documents": [
         {
             "title": "Bezier",
@@ -20,6 +20,7 @@
             "lastUpdatedDate": "2020-02-26T21:13:57+00:00",
             "thumbnailURL": "https://github.com/wwdc19scholarship/wwdc19scholarship.github.io/raw/master/Bezier/thumbnail.png",
             "bannerImageURL": "https://github.com/wwdc19scholarship/wwdc19scholarship.github.io/raw/master/Bezier/bannerImage.png",
+            "sha512": "e94c1916ec92ab3e17b5df2d2a53a18b6205e98d4a2e3ad2ced6ae76a90d6f5a34294f55c6e29d7ba65977b219f0ccad24cea98bcf8a70d2875e5ac6aa9da33f",
             "additionalInformation": [
                 {
                     "name": "Languages",
