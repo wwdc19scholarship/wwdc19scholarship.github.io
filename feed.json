@@ -3,7 +3,7 @@
     "subtitle": "A Collection of Swift Lessons",
     "publisherName": "HaoDong Hong",
     "feedIdentifier": "orient.hong",
-    "contactURL": "https://github.com/wwdc19scholarship/wwdc19scholarship.github.io",
+    "contactURL": "orient.hong",
     "formatVersion": "1.2",
     "documents": [
         {
@@ -15,11 +15,11 @@
             "attributes": ["short", "biology"],
             "contentIdentifier": "orient.hong.Bezier",
             "contentVersion": "1.0",
-            "url": "https://gitee.com/scauoxs/wwdc19scholarship.github.io/attach_files/339958/download",
+            "url": "https://orienthong.oss-cn-beijing.aliyuncs.com/wwdc19/Bezier/Bezier.playgroundbook.zip",
             "publishedDate": "2020-02-26T21:13:57+00:00",
             "lastUpdatedDate": "2020-02-26T21:13:57+00:00",
-            "thumbnailURL": "https://gitee.com/scauoxs/wwdc19scholarship.github.io/raw/master/Bezier/thumbnail.png",
-            "bannerImageURL": "https://gitee.com/scauoxs/wwdc19scholarship.github.io/raw/master/Bezier/bannerImage.png",
+            "thumbnailURL": "https://orienthong.oss-cn-beijing.aliyuncs.com/wwdc19/Bezier/thumbnail.png",
+            "bannerImageURL": "https://orienthong.oss-cn-beijing.aliyuncs.com/wwdc19/Bezier/bannerImage.png",
             "sha512": "02ff3e43fc60766c9317261be4a00ca88af7ae9ee9f4500a0d0ce13980889b36c32d81035a263ba84c9cca09a96d7c4a736df1452a0dece97a0f2201fc9bdce9",
             "additionalInformation": [
                 {
@@ -28,9 +28,9 @@
                 }
             ],
             "previewImageURLs": [
-                "https://gitee.com/scauoxs/wwdc19scholarship.github.io/raw/master/Bezier/1.PNG",
-                "https://gitee.com/scauoxs/wwdc19scholarship.github.io/raw/master/Bezier/2.PNG",
-                "https://gitee.com/scauoxs/wwdc19scholarship.github.io/raw/master/Bezier/3.PNG"
+                "https://orienthong.oss-cn-beijing.aliyuncs.com/wwdc19/Bezier/1.png",
+                "https://orienthong.oss-cn-beijing.aliyuncs.com/wwdc19/Bezier/2.png",
+                "https://orienthong.oss-cn-beijing.aliyuncs.com/wwdc19/Bezier/3.png"
             ]
         }
     ]
