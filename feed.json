@@ -1,32 +1,3 @@
 {
-    "title": "WWDC19 Scholarship - Bezier",
-    "subtitle": "A Collection of Swift Lessons",
-    "publisherName": "HaoDong Hong",
-    "feedIdentifier": "io.github.wwdc19scholarship",
-    "contactURL": "mailto:645670644@qq.com",
-    "formatVersion": "1.0",
-    "documents": [
-        {
-            "title": "Bezier",
-            "overviewSubtitle": "A Playground teaching Bezier",
-            "detailSubtitle": "A Playground teaching Bezier",
-            "description": "...",
-            "difficultyLevel": "advanced",
-            "attributes": ["short", "biology"],
-            "contentIdentifier": "io.github.wwdc19scholarship.Bezier",
-            "contentVersion": "1.0",
-            "url": "https://WWDCSwiftPlaygrounds2019.github.io/SignMeUp/SignMeUp.playgroundbook.zip",
-            "publishedDate": "2020-02-26T21:13:57+00:00",
-            "lastUpdatedDate": "2020-02-26T21:13:57+00:00",
-            "thumbnailURL": "Bezier/thumbnail.png",
-            "bannerImageURL": "Bezier/bannerImage.png",
-            "additionalInformation": [
-                {
-                    "name": "Languages",
-                    "value": "English"
-                }
-            ],
-            "previewImageURLs": []
-        }
-    ]
+    
 }
