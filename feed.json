@@ -2,7 +2,7 @@
     "title": "WWDC19 Scholarship - Bezier",
     "subtitle": "A Collection of Swift Lessons",
     "publisherName": "HaoDong Hong",
-    "feedIdentifier": "com.github",
+    "feedIdentifier": "orient.hong",
     "contactURL": "https://github.com/wwdc19scholarship/wwdc19scholarship.github.io",
     "formatVersion": "1.2",
     "documents": [
@@ -13,13 +13,13 @@
             "description": "...",
             "difficultyLevel": "advanced",
             "attributes": ["short", "biology"],
-            "contentIdentifier": "com.github.wwdc19scholarship",
+            "contentIdentifier": "orient.hong.Bezier",
             "contentVersion": "1.0",
-            "url": "https://github.com/wwdc19scholarship/wwdc19scholarship.github.io/releases/download/Bezier/Bezier.playgroundbook.zip",
+            "url": "https://gitee.com/scauoxs/wwdc19scholarship.github.io/attach_files/339958/download",
             "publishedDate": "2020-02-26T21:13:57+00:00",
             "lastUpdatedDate": "2020-02-26T21:13:57+00:00",
-            "thumbnailURL": "https://github.com/wwdc19scholarship/wwdc19scholarship.github.io/raw/master/Bezier/thumbnail.png",
-            "bannerImageURL": "https://github.com/wwdc19scholarship/wwdc19scholarship.github.io/raw/master/Bezier/bannerImage.png",
+            "thumbnailURL": "https://gitee.com/scauoxs/wwdc19scholarship.github.io/raw/master/Bezier/thumbnail.png",
+            "bannerImageURL": "https://gitee.com/scauoxs/wwdc19scholarship.github.io/raw/master/Bezier/bannerImage.png",
             "sha512": "02ff3e43fc60766c9317261be4a00ca88af7ae9ee9f4500a0d0ce13980889b36c32d81035a263ba84c9cca09a96d7c4a736df1452a0dece97a0f2201fc9bdce9",
             "additionalInformation": [
                 {
@@ -27,7 +27,11 @@
                     "value": "English"
                 }
             ],
-            "previewImageURLs": []
+            "previewImageURLs": [
+                "https://gitee.com/scauoxs/wwdc19scholarship.github.io/raw/master/Bezier/1.PNG",
+                "https://gitee.com/scauoxs/wwdc19scholarship.github.io/raw/master/Bezier/2.PNG",
+                "https://gitee.com/scauoxs/wwdc19scholarship.github.io/raw/master/Bezier/3.PNG"
+            ]
         }
     ]
 }

@@ -1,6 +1,6 @@
 ## WWDC19 Scholarship - Bezier
 
-### 欢迎下载我的Swift Playgrounds！你可以在iPad上通过[此链接](https://developer.apple.com/ul/sp0?url=https://wwdc19scholarhip.github.io/feed.json)订阅我的作品。
+### 欢迎下载我的Swift Playgrounds！你可以在iPad上通过[此链接](https://gitee.com/scauoxs/wwdc19scholarship.github.io/raw/master/feed.json)订阅我的作品。
 
 
 ## Support or Contact
