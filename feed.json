@@ -26,11 +26,7 @@
                     "value": "English"
                 }
             ],
-            "previewImageURLs": [
-                "Bezier/1.PNG",
-                "Bezier/2.PNG",
-                "Bezier/3.PNG"
-            ]
+            "previewImageURLs": []
         }
     ]
 }
