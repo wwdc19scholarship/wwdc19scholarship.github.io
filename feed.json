@@ -2,7 +2,7 @@
     "title": "WWDC19 Scholarship - Bezier",
     "subtitle": "A Collection of Swift Lessons",
     "publisherName": "HaoDong Hong",
-    "feedIdentifier": "com.wwdc19scholarship",
+    "feedIdentifier": "com.orienthong",
     "contactURL": "https://github.com/wwdc19scholarship/wwdc19scholarship.github.io",
     "formatVersion": "1.2",
     "documents": [
@@ -13,14 +13,13 @@
             "description": "...",
             "difficultyLevel": "advanced",
             "attributes": ["short", "biology"],
-            "contentIdentifier": "com.wwdc19scholarship.Bezier",
+            "contentIdentifier": "com.orienthong.Bezier",
             "contentVersion": "1.0",
             "url": "https://github.com/wwdc19scholarship/wwdc19scholarship.github.io/releases/download/Bezier/bezier.playgroundbook.zip",
             "publishedDate": "2020-02-26T21:13:57+00:00",
             "lastUpdatedDate": "2020-02-26T21:13:57+00:00",
             "thumbnailURL": "https://github.com/wwdc19scholarship/wwdc19scholarship.github.io/raw/master/Bezier/thumbnail.png",
             "bannerImageURL": "https://github.com/wwdc19scholarship/wwdc19scholarship.github.io/raw/master/Bezier/bannerImage.png",
-            "sha512": "e94c1916ec92ab3e17b5df2d2a53a18b6205e98d4a2e3ad2ced6ae76a90d6f5a34294f55c6e29d7ba65977b219f0ccad24cea98bcf8a70d2875e5ac6aa9da33f",
             "additionalInformation": [
                 {
                     "name": "Languages",
