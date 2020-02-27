@@ -18,8 +18,8 @@
             "url": "https://github.com/wwdc19scholarship/wwdc19scholarship.github.io/releases/download/Bezier/Bezier.playgroundbook.zip",
             "publishedDate": "2020-02-26T21:13:57+00:00",
             "lastUpdatedDate": "2020-02-26T21:13:57+00:00",
-            "thumbnailURL": "",
-            "bannerImageURL": "",
+            "thumbnailURL": "https://wwdc19scholarship.github.io/Bezier/thumbnail.png",
+            "bannerImageURL": "https://wwdc19scholarship.github.io/Bezier/bannerImage.png",
             "additionalInformation": [
                 {
                     "name": "Languages",
