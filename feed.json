@@ -3,14 +3,14 @@
     "subtitle": "A Collection of Swift Lessons",
     "publisherName": "HaoDong Hong",
     "feedIdentifier": "orient.hong",
-    "contactURL": "orient.hong",
+    "contactURL": "mailto:645670644@qq.com",
     "formatVersion": "1.2",
     "documents": [
         {
             "title": "Bezier",
-            "overviewSubtitle": "A Playground teaching Bezier",
-            "detailSubtitle": "A Playground teaching Bezier",
-            "description": "...",
+            "overviewSubtitle": "WWDC19苹果奖学金获奖作品-Bezier",
+            "detailSubtitle": "做这款Playground的灵感来源于大学上的一节计算机图形学的课程，老师教授的贝塞尔曲线、曲面的相关知识，由于鄙人理解能力比较差，上课没听懂。于是乎，整蛊一款帮助理解贝塞尔相关知识的Playground就由此诞生了！希望你能从中学到知识~~（最好有计算机相关知识）",
+            "description": "聊聊开发历程：开发此款Playground耗时大概一周，构思花了两三天，记得当时在兰州-广州的航班上把整个Playground的架构都做了出来。\n接下来的5天时间就是没日没夜的开发，其实白天做不了什么事情，经常都是白天发呆跟睡觉，晚上高效写代码，我还因此错过了大学喜欢对象的毕业典礼。\n最后在19年苹果奖学金deadline前一天才做完作品，4月24号再一次喜提苹果奖学金一枚，这或许是人生最后一次拿苹果奖学金了，值得纪念一下，因此开源此作。",
             "difficultyLevel": "advanced",
             "attributes": ["short", "biology"],
             "contentIdentifier": "orient.hong.Bezier",
@@ -23,7 +23,24 @@
             "sha512": "256631e4aadf5524dc95cd847958da2c0a733e4280674795135dd8a2e69af84c1cfe692725cba202c8a83651a449321884bf93df05dfb89e52d374bea3b30e4c",
             "additionalInformation": [
                 {
-                    "name": "Languages",
+                    "name": "作者:",
+                    "value": "洪浩东"
+                },
+                {
+                    "name": "联系方式:",
+                    "value": "wechat@chen645670644"
+                },
+                {
+                    "name": "Version:",
+                    "value": "1.0"
+                },
+                {
+                    "type": "date",
+                    "name": "发布日期:",
+                    "value": "2020-02-28T00:00:00+00:00"
+                },
+                {
+                    "name": "Languages:",
                     "value": "English"
                 }
             ],

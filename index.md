@@ -1,6 +1,6 @@
 ## WWDC19 Scholarship - Bezier
 
-### 欢迎下载我的Swift Playgrounds！你可以在iPad上通过[此链接](https://developer.apple.com/ul/sp0?url=https://orienthong.oss-cn-beijing.aliyuncs.com/wwdc19/feed.json)订阅我的作品 **或者** 在mac端的Swift Playgrounds通过[该链接](https://orienthong.oss-cn-beijing.aliyuncs.com/wwdc19/feed.json)
+### 欢迎下载我的Swift Playgrounds！你可以在iPad上通过[此链接](https://developer.apple.com/ul/sp0?url=https://orienthong.oss-cn-beijing.aliyuncs.com/wwdc19/feed.json)订阅我的作品 **或者** 在mac端的Swift Playgrounds输入[该链接](https://orienthong.oss-cn-beijing.aliyuncs.com/wwdc19/feed.json)订阅。
 
 ## Support or Contact
 
